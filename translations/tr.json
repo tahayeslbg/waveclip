@@ -1,0 +1,11 @@
+{
+    "Locales": {
+        "tr": "Türkçe",
+        "en": "İngilizce",
+        "de": "Almanca",
+        "es": "İspanyolca"
+    },
+    "HelloWorld": {
+        "Label": "Merhaba Dünya"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Locales": {
+        "tr": "Turkish",
+        "en": "English",
+        "de": "German",
+        "es": "Spanish"
+    },
+    "HelloWorld": {
+        "Label": "Hello World"
+    }
+}
