@@ -5,7 +5,33 @@
         "de": "German",
         "es": "Spanish"
     },
-    "HelloWorld": {
-        "Label": "Hello World"
+    "Themes": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "NavLinks": {
+        "SignIn": "Sign in",
+        "SignUp": "Sign up",
+        "Movies": "Movies",
+        "TV_Series": "TV Series"
+    },
+    "Search": {
+        "Placeholder": "Search for TV series or movies...",
+        "SearchResultsAriaLabel": "Search Results",
+        "SearchResultsItemMediaTypeTV": "TV Serie",
+        "SearchResultsItemMediaTypeMovie": "Movie",
+        "Close": "Close"
+    },
+    "Pages": {
+        "Home": {
+            "Hero": {
+                "Title": "Discover top movies and TV series on WaveClip",
+                "Description": "WaveClip is an application designed for discovering the movies and TV series. You can use WaveClip to curate your viewing habits and explore new content."
+            },
+            "Generator": {
+                "Title": "Make a mysterious choice by leaving it to chance"
+            }
+        }
     }
 }

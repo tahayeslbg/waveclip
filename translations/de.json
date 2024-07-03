@@ -5,7 +5,33 @@
         "de": "Deutsch",
         "es": "Spanisch"
     },
-    "HelloWorld": {
-        "Label": "Hallo Welt"
+    "Themes": {
+        "light": "Hell",
+        "dark": "Dunkel",
+        "system": "System"
+    },
+    "NavLinks": {
+        "SignIn": "Einloggen",
+        "SignUp": "Registrieren",
+        "Movies": "Filme",
+        "TV_Series": "Fernsehserie"
+    },
+    "Search": {
+        "Placeholder": "Suche nach TV-Serien oder Filmen...",
+        "SearchResultsAriaLabel": "Suchergebnisse",
+        "SearchResultsItemMediaTypeTV": "TV-Serie",
+        "SearchResultsItemMediaTypeMovie": "Film",
+        "Close": "Schließen"
+    },
+    "Pages": {
+        "Home": {
+            "Hero": {
+                "Title": "Entdecken Sie Top-Filme und TV-Serien auf WaveClip",
+                "Description": "WaveClip ist eine Anwendung zum Entdecken von Filmen und TV-Serien. Sie können WaveClip nutzen, um Ihre Sehgewohnheiten zu kuratieren und neue Inhalte zu entdecken."
+            },
+            "Generator": {
+                "Title": "Treffe eine geheimnisvolle Wahl, indem du dem Zufall überlässt"
+            }
+        }
     }
 }

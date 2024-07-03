@@ -5,7 +5,33 @@
         "de": "Almanca",
         "es": "İspanyolca"
     },
-    "HelloWorld": {
-        "Label": "Merhaba Dünya"
+    "Themes": {
+        "light": "Açık",
+        "dark": "Koyu",
+        "system": "Sistem"
+    },
+    "NavLinks": {
+        "SignIn": "Giriş yap",
+        "SignUp": "Kayıt ol",
+        "Movies": "Filmler",
+        "TV_Series": "Diziler"
+    },
+    "Search": {
+        "Placeholder": "Dizi veya film arayın...",
+        "SearchResultsAriaLabel": "Arama Sonuçları",
+        "SearchResultsItemMediaTypeTV": "Dizi",
+        "SearchResultsItemMediaTypeMovie": "Film",
+        "Close": "Kapat"
+    },
+    "Pages": {
+        "Home": {
+            "Hero": {
+                "Title": "WaveClip'te en iyi filmleri ve dizileri keşfedin",
+                "Description": "WaveClip, filmleri ve dizileri keşfetmek için tasarlanmış bir uygulamadır. WaveClip'i izleme alışkanlıklarınızı düzenlemek ve yeni içerikler keşfetmek için kullanabilirsiniz."
+            },
+            "Generator": {
+                "Title": "Seçimi şansa bırakarak gizemli bir seçim yap"
+            }
+        }
     }
 }
