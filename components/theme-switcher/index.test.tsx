@@ -1,4 +1,3 @@
-// components/ThemeToggle.test.tsx
 import React from 'react'
 import { render } from '@/__mocks__/test-utils'
 import userEvent from '@testing-library/user-event'
@@ -12,7 +11,7 @@ const ThemeSpy: React.FC = () => {
 }
 
 describe('ThemeSwitcher', () => {
-    it('Light Theme', async () => {
+    it('Light Theme is correctly working', async () => {
         const { getByTestId } = render(
             <>
                 <ThemeSwitcher />
@@ -35,7 +34,7 @@ describe('ThemeSwitcher', () => {
         expect(spy).toHaveTextContent('light')
     })
 
-    it('Dark Theme', async () => {
+    it('Dark Theme is correctly working', async () => {
         const { getByTestId } = render(
             <>
                 <ThemeSwitcher />
